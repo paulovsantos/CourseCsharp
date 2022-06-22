@@ -22,5 +22,29 @@ namespace CourseCsharp.Entities
             BaseSalary = baseSalary;
             Department = department;
         }
+
+        public void addContract(HourContract contract)
+        {
+            Contracts.Add(contract);
+        }
+
+        public void removeContract(HourContract contract)
+        {
+            Contracts.Remove(contract);
+        }
+
+        public double income(int year, int month)
+        {
+            double sum = BaseSalary;
+
+            foreach(HourContract contract in Contracts)
+            {
+                if(contract.Date.Year == year && contract.Date.Month == month)
+                {
+                    sum += contract.TotalValue();
+                }
+            }
+            return sum;
+        }
     }
 }
