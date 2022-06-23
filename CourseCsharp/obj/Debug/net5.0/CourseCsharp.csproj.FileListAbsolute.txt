@@ -1,0 +1,16 @@
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.exe
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.deps.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.runtimeconfig.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.runtimeconfig.dev.json
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\ref\CourseCsharp.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\bin\Debug\net5.0\CourseCsharp.pdb
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.csproj.AssemblyReference.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.AssemblyInfoInputs.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.AssemblyInfo.cs
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.csproj.CoreCompileInputs.cache
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\ref\CourseCsharp.dll
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.pdb
+C:\workspace\UdemyC#\Capitulo 9 - Enumerações e Comparações\CourseCsharp\CourseCsharp\obj\Debug\net5.0\CourseCsharp.genruntimeconfig.cache
